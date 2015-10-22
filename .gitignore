@@ -254,3 +254,4 @@ UpgradeLog*.htm
 FakesAssemblies/
 *.pdb
 Binaries/Win64/UE4Editor-BossGame.pdb
+/.project
